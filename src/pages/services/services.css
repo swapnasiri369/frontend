@@ -1,0 +1,39 @@
+.service-page {
+  min-height: 100vh;
+  background: #f7fafc;
+  padding: 40px;
+}
+
+.service-title {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #2d3748;
+}
+
+.service-list {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.service-card {
+  background: #ffffff;
+  width: 260px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.service-name {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #2b6cb0;
+}
+
+.service-desc {
+  font-size: 14px;
+  color: #4a5568;
+}
