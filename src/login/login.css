@@ -5,7 +5,7 @@ body {
 
 .login-container {
   height: 100vh;
-  background-color: #0f7f94;
+  background-color: #cdb7e9;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,7 +51,7 @@ button {
   width: 100%;
   margin-top: 20px;
   padding: 14px;
-  background-color: #0f7f94;
+  background-color: #e3a2e6;
   color: white;
   border: none;
   cursor: pointer;
@@ -59,7 +59,7 @@ button {
 }
 
 button:hover {
-  background-color: #0c6b7d;
+  background-color: #9d7ec0;
 }
 
 .links {
@@ -68,12 +68,12 @@ button:hover {
 }
 
 .links span {
-  color: #0f7f94;
+  color: #d8a6cd;
   cursor: pointer;
 }
 
 .error {
-  color: red;
+  color: rgb(164, 113, 184);
   font-size: 13px;
   margin-top: 4px;
 }
